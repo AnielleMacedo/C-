@@ -1,0 +1,7 @@
+C:\Users\Anielle\Desktop\C#\Classe_Parte1\Classe_Parte1\bin\Debug\Classe_Parte1.exe.config
+C:\Users\Anielle\Desktop\C#\Classe_Parte1\Classe_Parte1\bin\Debug\Classe_Parte1.exe
+C:\Users\Anielle\Desktop\C#\Classe_Parte1\Classe_Parte1\bin\Debug\Classe_Parte1.pdb
+C:\Users\Anielle\Desktop\C#\Classe_Parte1\Classe_Parte1\obj\Debug\Classe_Parte1.csprojAssemblyReference.cache
+C:\Users\Anielle\Desktop\C#\Classe_Parte1\Classe_Parte1\obj\Debug\Classe_Parte1.csproj.CoreCompileInputs.cache
+C:\Users\Anielle\Desktop\C#\Classe_Parte1\Classe_Parte1\obj\Debug\Classe_Parte1.exe
+C:\Users\Anielle\Desktop\C#\Classe_Parte1\Classe_Parte1\obj\Debug\Classe_Parte1.pdb

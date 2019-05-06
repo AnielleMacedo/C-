@@ -1,0 +1,7 @@
+C:\Users\Anielle\Desktop\C#\Modificadores_Acesso\Modificadores_Acesso\bin\Debug\Modificadores_Acesso.exe.config
+C:\Users\Anielle\Desktop\C#\Modificadores_Acesso\Modificadores_Acesso\bin\Debug\Modificadores_Acesso.exe
+C:\Users\Anielle\Desktop\C#\Modificadores_Acesso\Modificadores_Acesso\bin\Debug\Modificadores_Acesso.pdb
+C:\Users\Anielle\Desktop\C#\Modificadores_Acesso\Modificadores_Acesso\obj\Debug\Modificadores_Acesso.csprojAssemblyReference.cache
+C:\Users\Anielle\Desktop\C#\Modificadores_Acesso\Modificadores_Acesso\obj\Debug\Modificadores_Acesso.csproj.CoreCompileInputs.cache
+C:\Users\Anielle\Desktop\C#\Modificadores_Acesso\Modificadores_Acesso\obj\Debug\Modificadores_Acesso.exe
+C:\Users\Anielle\Desktop\C#\Modificadores_Acesso\Modificadores_Acesso\obj\Debug\Modificadores_Acesso.pdb

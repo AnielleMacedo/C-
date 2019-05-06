@@ -1,0 +1,6 @@
+C:\Users\Anielle\Desktop\C#\CamposCompatilhadosEmClasses\CamposCompatilhadosEmClasses\bin\Debug\CamposCompatilhadosEmClasses.exe.config
+C:\Users\Anielle\Desktop\C#\CamposCompatilhadosEmClasses\CamposCompatilhadosEmClasses\bin\Debug\CamposCompatilhadosEmClasses.exe
+C:\Users\Anielle\Desktop\C#\CamposCompatilhadosEmClasses\CamposCompatilhadosEmClasses\bin\Debug\CamposCompatilhadosEmClasses.pdb
+C:\Users\Anielle\Desktop\C#\CamposCompatilhadosEmClasses\CamposCompatilhadosEmClasses\obj\Debug\CamposCompatilhadosEmClasses.csproj.CoreCompileInputs.cache
+C:\Users\Anielle\Desktop\C#\CamposCompatilhadosEmClasses\CamposCompatilhadosEmClasses\obj\Debug\CamposCompatilhadosEmClasses.exe
+C:\Users\Anielle\Desktop\C#\CamposCompatilhadosEmClasses\CamposCompatilhadosEmClasses\obj\Debug\CamposCompatilhadosEmClasses.pdb

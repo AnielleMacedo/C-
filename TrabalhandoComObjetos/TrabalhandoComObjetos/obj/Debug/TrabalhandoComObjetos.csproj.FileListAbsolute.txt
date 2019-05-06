@@ -1,0 +1,7 @@
+C:\Users\Anielle\Desktop\C#\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.exe.config
+C:\Users\Anielle\Desktop\C#\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.exe
+C:\Users\Anielle\Desktop\C#\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.pdb
+C:\Users\Anielle\Desktop\C#\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.csprojAssemblyReference.cache
+C:\Users\Anielle\Desktop\C#\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Anielle\Desktop\C#\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.exe
+C:\Users\Anielle\Desktop\C#\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.pdb
